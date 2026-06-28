@@ -1,5 +1,5 @@
-# 👋 Syed Ali Taqi  
-### 📊 Applied Statistician | Data Scientist | Sustainability Researcher | Academic Mentor  
+# Syed Ali Taqi  
+### Applied Statistician | Data Scientist | Sustainability Researcher | Academic Mentor  
 
 🎓 PhD Scholar (Management Science & Engineering), China  
 👨‍🏫 Lecturer – Department of Statistics, COMSATS University Islamabad  
