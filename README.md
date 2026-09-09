@@ -1,15 +1,14 @@
 # Syed Ali Taqi  
 ### Applied Statistician | Data Scientist | Sustainability Researcher | Academic Mentor  
-
-🎓 PhD Scholar (Management Science & Engineering), China  
+  
 👨‍🏫 Lecturer – Department of Statistics, COMSATS University Islamabad  
-📍 Lahore, Pakistan  
+📍 Islamabad, Pakistan  
 
 ---
 
 ## 🎓 Academic Overview
 
-I am an academic researcher and lecturer specializing in **Statistics, Data Analytics, and Management Science**.
+I am an academic researcher and lecturer specializing in **Statistics, Data Analytics, and Data Science**.
 
 My work integrates rigorous statistical theory with real-world applications in sustainability, manufacturing performance, and data-driven decision systems.
 
