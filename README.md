@@ -18,7 +18,7 @@ Data Analyst • Business Intelligence Analyst • Data Scientist • Applied St
 
 ---
 
-## 🧑‍💼 About Me
+## About Me
 
 I'm an **Applied Statistician and Data Scientist** with **9+ years of experience** teaching, researching, and applying **statistical modeling, business intelligence, and data analytics** to real-world problems.
 
@@ -63,7 +63,7 @@ I'm an **Applied Statistician and Data Scientist** with **9+ years of experience
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### 🎓 Lecturer — Department of Mathematics
 **COMSATS University Islamabad, Islamabad Campus** · *Aug 2026 – Present*
@@ -75,14 +75,14 @@ I'm an **Applied Statistician and Data Scientist** with **9+ years of experience
 - Restructured **Probability & Statistics** for CS students at Beaconhouse National University — focused on computational applications.
 - Served as **Research Associate** (Jan–Aug 2016) and contributed to institutional performance reviews and academic committees.
 
-### 🧑‍🏫 Visiting Lecturer
+### Visiting Lecturer
 - **University of Central Punjab** — Faculty of Management Sciences (FOMS)
 - **Beaconhouse National University** — School of Computing & IT (SCIT) & School of Business
   *Courses: Business Analytics (Executive MBA), Data Analytics (MBA), Database Systems, Probability & Statistics.*
 
 ---
 
-## 📚 Courses Taught (Selected)
+## Courses Taught (Selected)
 
 | Course | Level | Key Topics |
 |---|---|---|
@@ -97,7 +97,7 @@ I'm an **Applied Statistician and Data Scientist** with **9+ years of experience
 
 ---
 
-## 🔬 Research & Publications
+## Research & Publications
 
 **Research Focus:** Industry 4.0 · Green Innovation · Sustainability Analytics · Big Data Capabilities · Air Pollution Modeling · Statistical Distribution Theory
 
@@ -110,14 +110,14 @@ I'm an **Applied Statistician and Data Scientist** with **9+ years of experience
 - Abbas, S., **Taqi, S. A.**, Mustafa, F., Murtaza, M., Cakmak Yapan, S., Ozel, G. (2020). *A Note on Topp-Leone Odd Log-Logistic Inverse Exponential Distribution.* **Journal of Statistical Theory and Applications, 19(1).**
 - Abbas, S., **Taqi, S. A.**, Mustafa, F., Murtaza, M., Shahbaz, Q. (2017). *Topp-Leone Inverse Weibull Distribution: Theory and Application.* **European Journal of Pure and Applied Mathematics, 10(5).**
 
-**🏆 Conference Awards**
+**Conference Awards**
 - **Excellent Paper Award** — ISIMIP 2019, Huaqiao University, China
 - **Excellent Paper Award** — ISIMIP 2018, Zhejiang Gongshang University, China
 
 ---
 
 
-## 🏅 Honors & Certifications
+## Honors & Certifications
 
 **Awards**
 - 🏆 Kaggle Notebook Grandmaster — **Global Rank #1**
@@ -141,7 +141,7 @@ I'm an **Applied Statistician and Data Scientist** with **9+ years of experience
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alitaqishah&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
